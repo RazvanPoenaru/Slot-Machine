@@ -1,9 +1,9 @@
 **Python Slot Machine Project**
-\\
+
 This project is a simple slot machine game implemented in Python. It provides a fun and interactive way to understand basic programming concepts, such as loops, conditionals, and random number generation, while also demonstrating fundamental principles of game design.
 
 **Features**
-\\
+
 User-Friendly Interface: Easy-to-use command-line interface that allows players to place bets, spin the reels, and view their current balance.
 Randomized Outcomes: Utilizes Python's random module to ensure fair and unpredictable results for each spin.
 Customizable Settings: Users can adjust the number of reels and symbols, as well as the betting amounts and initial balance.
